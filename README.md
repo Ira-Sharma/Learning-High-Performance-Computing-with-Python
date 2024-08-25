@@ -16,9 +16,11 @@ Key Topics Include:
 6. Real-World Examples: Practical examples to reinforce your understanding of HPC concepts.
    
 <h2 id="Code">Code</h2>
-The jupyter notebooks provided contain the codes that were performed on Google colaboratory and MacOS system.
+The Jupyter Notebooks provided contain the code examples and exercises performed on Google Colaboratory and MacOS systems.
+
+
 <h3 id="HPC on Google Colab">HPC on Google Colab</h3>
-HPC_on_Google Colab.ipynb jupyter notebook includes all the topics/tasks performed on the Google Colaboratory:
+'HPC_on_Google_Colab.ipynb': This notebook covers a wide range of HPC topics and tasks performed on Google Colaboratory, including:
 
 1. Bottlenecks
 2. Intro to IPython and Jupyter Notebooks
@@ -29,7 +31,7 @@ HPC_on_Google Colab.ipynb jupyter notebook includes all the topics/tasks perform
 7. Speeding up your code with Cython
 8. Numba, GPUs and CUDA
 <h3 id="HPC on MacOS">HPC on MacOS</h3>
-HPC_on_Mac.ipynb jupyter notebook includes all the topics/tasks performed on the MacOS local machine:
+'HPC_on_Mac.ipynb': This notebook includes all the HPC tasks performed on a MacOS local machine, focusing on:
 
 1. Interactive Parallel Computing with IPython Parallel
 2. Numba Vectorize
